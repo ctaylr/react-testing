@@ -1,0 +1,11 @@
+h1 {
+  color: blue;
+  text-transform: uppercase; }
+
+body.hide * {
+  display: none; }
+
+.green {
+  background: #00ff00; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuLi9kaXN0L3N0eWxlLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
